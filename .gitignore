@@ -1,2 +1,8 @@
-*.keras
-*.pkl
+X_for_dl_2000.pkl
+X.pkl
+y_for_dl_2000.pkl
+y.pkl
+gbc_model.pkl
+rfc_model.pkl
+svc_model.pkl
+xgb_model.pkl
